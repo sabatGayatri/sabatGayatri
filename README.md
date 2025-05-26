@@ -10,7 +10,7 @@ I’m passionate about creating things on the web and diving deep into **AI and 
 ---
 
 ### 🛠️ Tech Stack
-- 💻 Python | HTML | CSS | JavaScript  
+- 💻 Python | HTML | CSS | JavaScript  | React
 - 🔧 Git | Pandas
 
 ---
